@@ -15,15 +15,13 @@
 
 ## Author
 
-This tutorial was written by me, Raziel Moesch (Raz for short) because I really enjoy
-teaching and genuinely believe that WGPU is a great platform to get started with
-graphics programming. I started out with WebGPU but wanted to learn the rust version
-of the library, and could not find any tutorials that were less than 5 years old. I scraped together whatever resources I could and made what I think is a great start to see enough of WGPU to get started with still a lot more to be excited to learn about.
+My name is Raziel Moesch (Raz for short). I wrote this tutorial because I really 
+enjoy teaching, and genuinely believe that WGPU is a great platform to get started with graphics programming. I started out with WebGPU but wanted to learn the rust version of the library, and could not find any tutorials that were less than 5 years old. I scraped together whatever resources I could and made what I think is a great start to get a hang of WGPU while still leaving enough room for your own exploration.
 If you have any questions, comments, or even mistakes you think I made please reach out.
 
 **My Email is: TheRazielMoesch@gmail.com** 
 
-**Linkedin: https://www.linkedin.com/in/raziel-moesch-61474b21b/**
+**Linkedin:** [**RazielMoesch**](https://www.linkedin.com/in/raziel-moesch-61474b21b/)
 
 
 ## Summary
