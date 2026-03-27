@@ -104,7 +104,7 @@ impl Camera {
         // Check out this resource to explain right vs left handed coordinate systems: https://www.youtube.com/watch?v=BoHQtXpWG2Y
         // 1st param - where to look from
         // 2nd param - where to look at
-        // 3rd param - up direction | Vec3::Y just uses a <0.0, 1.0, 0.0> vector indicating the y axis as up
+        // 3rd param - up direction | Vec3::Z just uses a <0.0, 0.0, 1.0> vector indicating the z axis as up
         //</explain>
 
     }
@@ -162,7 +162,7 @@ struct Uniforms {
     //<explain>
     // "MVP" stands for Model View Projection. It is a 4x4 matrix that corrisponds to the Uniforms struct in the "draw_stl.wgsl" shader.
     // It is our final matrix to apply all the transformations 
-    //</explain?
+    //</explain>
     rgba: [ f32; 4 ]
     //<explain>
     // The base color of the 3d model
